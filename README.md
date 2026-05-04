@@ -16,7 +16,7 @@ This analysis addresses real-world business questions around hiring, compensatio
 ## 📊 Dataset
 - **Source:** Stack Overflow Developer Survey
 - **Size:** 49,191 respondents · 172 features
-- [Stack Overflow Survey on Kaggle] https://www.kaggle.com/datasets/aliaslam25/stack-overflow-developer-survey-2025
+- Stack Overflow Survey on Kaggle: https://www.kaggle.com/datasets/aliaslam25/stack-overflow-developer-survey-2025
 
 ---
 
