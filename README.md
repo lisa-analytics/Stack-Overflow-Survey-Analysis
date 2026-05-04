@@ -43,19 +43,19 @@ This analysis addresses real-world business questions around hiring, compensatio
 
 ## 📈 Key Insights
 
-** Python Usage**  
+**Python Usage**  
 Python is used by 37.5% of all respondents, making it the most popular language in the survey.
 
-** Remote Work**  
+**Remote Work**  
 10,931 developers (22%) work fully remote, highlighting the global and flexible nature of the tech industry.
 
-** Salary Distribution**  
+**Salary Distribution**  
 Salaries vary significantly by country. Median salary provides a more realistic picture than mean due to outliers.
 
-** Education vs Salary**  
+**Education vs Salary**  
 Top earners come from diverse educational backgrounds, suggesting that formal education is not the only path to success in tech.
 
-** Learning Paths**  
+**Learning Paths**  
 Online courses are a major learning channel, confirming the importance of self-education in the developer community.
 
 ---
